@@ -18,16 +18,9 @@ An AI-powered tool to generate highly tailored cold emails from job descriptions
 - Pandas
 - Python-dotenv
 
-## 🚦 Demo Screenshot
-![App Screenshot](./assets/demo_screenshot.png)
-
-## 🔗 Live Demo (Optional)
-_Deploy to Streamlit Cloud or your own server and link here_
-
-## 🛠️ Setup Instructions
 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cold-email-generator.git
+git clone https://github.com/vijaysheru/cold-email.git
 cd cold-email-generator
