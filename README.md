@@ -24,3 +24,8 @@ An AI-powered tool to generate highly tailored cold emails from job descriptions
 ```bash
 git clone https://github.com/vijaysheru/cold-email.git
 cd cold-email-generator
+```
+
+### 🏆 Credits
+Inspired by codebasics/project-genai-cold-email-generator
+
